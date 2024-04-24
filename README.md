@@ -1,2 +1,1 @@
-# website-v6
-https://dumo.se
+# Moved to https://dumosgit.xyz
